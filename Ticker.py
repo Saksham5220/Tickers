@@ -1,3 +1,9 @@
+###
+Saksham Nirula, Ticker Pull
+Linkedin: https://Linkedin.com/profile/sakshamnirula
+###
+
+
 import requests
 import re
 import json
